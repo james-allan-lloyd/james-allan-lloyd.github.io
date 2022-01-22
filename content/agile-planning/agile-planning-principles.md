@@ -1,8 +1,6 @@
 Title: Agile Planning Principles
 Date: 2021-09-17
 Category: Agile
-Slug: agile-planning-principles
-Status: draft
 
 Here are my agile planning principles. These are not commandments, and its quite
 possible there's a lot of tension between each. Despite this, I hope they can be

@@ -1,15 +1,13 @@
-Title: Story Development
+Title: Agile Planning: Story Development
 Date: 2021-09-17
 Category: Agile
-Slug: story-development
-Status: draft
 
 Stories and the writing thereof are right at the pointy end of software
 development, the interface with between business and development. In every
-company I have ever worked with it has been a point of contention or neglect.
-The classical refrains when the software is actually "inspected" by stakeholders
-are: developers saying "but they didn't specify this behavior" while the
-business says "this is not what I asked for".
+company I have ever worked with it has been either a point of contention or a
+point of neglect. The classical refrains when the software is actually
+"inspected" by stakeholders are: developers saying "but they didn't specify this
+behavior" while the business says "this is not what I asked for".
 
 There are many approaches to this thorny problem and what follows is mere my own
 humble take on the situation.
@@ -76,13 +74,14 @@ details until absolutely necessary. When is it absolutely necessary? It's when
 you're asking the PO if a given solution is acceptable to them. That doesn't
 have to be baked into the story before the sprint starts.
 
-# Creation
+# Creation: Stay in the Problem
 Stay in the problem domain as long as possible. Don't get bogged down in
 solutions. The most important thing when creating the story is getting the why
 are we doing this, why should we do this now, why should we do it in preference
 to anything else. Ie, the value.
 
-Once you have the value clarified, then you can start looking at the details.
+Once you have the value clarified, only then you can start looking at the
+details.
 
 Certainly don't start worrying about implementation. The implementation ->
 sizing cycle takes place later, where we start refining the value.
@@ -250,10 +249,13 @@ information they need, be available, and occasionally correct when you see them
 going off course. What you lose in a given sprint will be paid back by increased
 self-organization and empowerment in the following sprints.
 
-# Sizing and Estimating
+# But wait, there's more!
+Event though we've kind of glossed over the whole sizing practice, it is one of
+the hardest, most contentious and (ergo) most draining challenges of the whole
+planning practice. Yet it is obviously the most important question from your
+stakeholders that needs to be answered is "When will it be done?".
 
-# Days vs Points
+How can we do this painlessly while maintaining the trust between the business
+and the team? I hope to answer this next time.
 
-# No Estimates and Right Sizing
-
-# Acceptance Criteria
+Or at least give my coping strategies.
